@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Building Scalable Data Solutions ⚡</h1>
-  <img src="https://github.com/AlejandroFM-MA/AlejandroFM-MA/raw/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png" 
+  <img src="https://github.com/AlejandroFM-MA/AlejandroFM-MA/blob/main/Alejandro%20(1).png" 
        alt="Alejandro Fernández | Data Engineer">
 </div>
 
