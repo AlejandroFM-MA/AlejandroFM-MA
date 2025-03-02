@@ -4,17 +4,17 @@
        alt="Alejandro Fernández | Data Engineer">
 </div>
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy **Alejandro Fernández**, un apasionado por los datos y la ingeniería. Mi objetivo es convertirme en un **Data Engineer**, construyendo infraestructuras eficientes para el procesamiento, almacenamiento y análisis de datos a gran escala.  
+I am **Alejandro Fernández**, a data enthusiast and aspiring **Data Engineer** dedicated to building efficient infrastructures for large-scale data processing, storage, and analysis.  
 
-🔹 **Formación:** Matemáticas y análisis de datos.  
-🔹 **Habilidades:** Python, SQL, ETL, PostgreSQL, Pandas, Cloud Computing.  
-🔹 **Proyectos:** Desarrollo de bases de datos, pipelines ETL y modelado de datos.  
+🔹 **Education:** Mathematics & Data Analytics  
+🔹 **Skills:** Python, SQL, ETL, PostgreSQL, Pandas, Cloud Computing  
+🔹 **Projects:** Database development, ETL pipelines, and data modeling  
 
-Actualmente, sigo perfeccionando mis habilidades en **procesamiento de datos, automatización y arquitecturas escalables**, mientras construyo proyectos prácticos para mi portafolio.  
+I am continuously refining my expertise in **data processing, automation, and scalable architectures**, while building hands-on projects for my portfolio.  
 
-💡 **Siempre explorando nuevas formas de optimizar el flujo de datos y la ingeniería de datos en la nube.**  
+💡 **Passionate about optimizing data workflows and leveraging cloud-based data engineering solutions.**  
 
 ---
 
@@ -26,4 +26,3 @@ Actualmente, sigo perfeccionando mis habilidades en **procesamiento de datos, au
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroFM-MA&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
