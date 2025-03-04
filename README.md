@@ -1,20 +1,19 @@
 <div align="center">
   <h1>Building Scalable Data Solutions ⚡</h1>
-  <img src="https://github.com/AlejandroFM-MA/AlejandroFM-MA/blob/main/Alejandro%20(1).png" 
-       alt="Alejandro Fernández | Data Engineer">
+   
+       
 </div>
 
 ## 🚀 About Me
 
-I am **Alejandro Fernández**, a data enthusiast and aspiring **Data Engineer** dedicated to building efficient infrastructures for large-scale data processing, storage, and analysis.  
+I am **Alejandro Fernández**, a mathematics graduate with a strong foundation in data analytics, transitioning into **data engineering**. I specialize in leveraging **SQL** and **Python** to design and optimize databases, build efficient data pipelines, and automate data workflows.
 
-🔹 **Education:** Mathematics & Data Analytics  
-🔹 **Skills:** Python, SQL, ETL, PostgreSQL, Pandas, Cloud Computing  
-🔹 **Projects:** Database development, ETL pipelines, and data modeling  
+- **Education:** Bachelor's in Mathematics, Data Analytics coursework 🎓  
+- **Skills:** SQL, PostgreSQL, Python, Pandas, Web Scraping ⚙️  
+- **Projects:** Database architecture, SQL query optimization, web scraping automation 🌐
 
-I am continuously refining my expertise in **data processing, automation, and scalable architectures**, while building hands-on projects for my portfolio.  
-
-💡 **Passionate about optimizing data workflows and leveraging cloud-based data engineering solutions.**  
+Currently, I am expanding my expertise in **data processing** and learning to design **scalable data architectures** through hands-on projects. I am committed to continuous learning and practical application of data engineering principles.
+ 
 
 ---
 
